@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img height="540em" width="100%" src="src/images/toReadme/watchMe.gif"/>
+    <img height="510em" width="100%" src="src/images/toReadme/watchMe.gif"/>
 </p>
 
 <img align="right" height="460em" src="src/images/toReadme/yanbot.png"/>
